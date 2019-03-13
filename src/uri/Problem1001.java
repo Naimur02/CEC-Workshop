@@ -2,7 +2,7 @@ package uri;
 
 import java.util.Scanner;
 
-public class Problem01 {
+public class Problem1001 {
     public static void main(String[] args){
        Scanner canon303Lide=new Scanner(System.in);
 
